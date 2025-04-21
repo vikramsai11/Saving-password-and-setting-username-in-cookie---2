@@ -92,3 +92,6 @@ pinInput.addEventListener('input', (e) => {
 document.getElementById('check').addEventListener('click', test);
 
 main();
+
+
+
